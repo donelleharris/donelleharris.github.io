@@ -1,14 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Over+the+Rainbow&display=swap');
+
 body {
     background-image: url("../assets/armijoSprings.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .jumbotron {
-    background-color: #434427;
+    background: none;
 }
 .card {
-    background-color: #434427;
+    background-color: #ffffff51;
 }
 .jumbotron>h1 {
-    color: #1C1D00;
+    color: white;
+    font-family: 'Over the Rainbow', cursive;
+    background: #474824a1;
+
+
 }
