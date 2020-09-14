@@ -1,0 +1,14 @@
+body {
+    background-image: url("../assets/armijoSprings.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jumbotron {
+    background-color: #434427;
+}
+.card {
+    background-color: #434427;
+}
+.jumbotron>h1 {
+    color: #1C1D00;
+}
