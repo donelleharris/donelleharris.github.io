@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Over+the+Rainbow&display=swap');
 
 main {
+    padding-top: 2em;
     background-image: url("../assets/armijoSprings.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -12,7 +13,7 @@ main {
     background: #474824d1;
 }
 .card {
-    background-color: #ffffff91;
+    background-color: #ffffffc1;
 }
 .bg-theme {
     background: #474824d1;
