@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Over+the+Rainbow&display=swap');
 
-body {
+main {
     background-image: url("../assets/armijoSprings.jpg");
     background-repeat: no-repeat;
     background-size: cover;
