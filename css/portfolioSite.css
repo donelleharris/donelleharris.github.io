@@ -6,15 +6,11 @@ body {
     background-size: cover;
 }
 .jumbotron {
-    background: none;
-}
-.card {
-    background-color: #ffffff51;
-}
-.jumbotron>h1 {
+    margin-top: 2em;
     color: white;
     font-family: 'Over the Rainbow', cursive;
-    background: #474824a1;
-
-
+    background: #474824d1;
+}
+.card {
+    background-color: #ffffff91;
 }
