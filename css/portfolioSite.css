@@ -5,14 +5,34 @@ main {
     background-image: url("../assets/armijoSprings.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    color: #545454;
+}
+button {
+    font-size: 12px;
+}
+button>i {
+    color: #545454;
+}
+i {
+    color: white;
+    padding: 5px;
 }
 .jumbotron {
     margin-top: 2em;
     color: white;
-    font-family: 'Over the Rainbow', cursive;
     background: #474824d1;
 }
-.card {
+#jumboP {
+    font-size: 25px;
+}
+#spanP {
+    font-weight: lighter;
+}
+h1 {
+    font-size: 50px;
+    font-family: 'Over the Rainbow', cursive;
+}
+.card, #bio {
     background-color: #ffffffc1;
 }
 .bg-theme {
