@@ -14,3 +14,9 @@ body {
 .card {
     background-color: #ffffff91;
 }
+.bg-theme {
+    background: #474824d1;
+}
+#author {
+    font-family: 'Over the Rainbow', cursive;
+}
