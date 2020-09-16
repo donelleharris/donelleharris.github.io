@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Over+the+Rainbow&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
 main {
     padding-top: 2em;
     background-image: url("../assets/armijoSprings.jpg");
@@ -8,7 +11,7 @@ main {
     color: #545454;
 }
 #headshot {
-width: 50%;
+width: 40%;
 }
 button {
     font-size: 12px;
@@ -18,7 +21,7 @@ button>i {
 }
 i {
     color: white;
-    padding: 5px;
+    margin-right: 1em;
 }
 .jumbotron {
     margin-top: 2em;
@@ -27,17 +30,22 @@ i {
 }
 #jumboP {
     font-size: 25px;
+    font-weight: lighter;
 }
 #spanP {
     font-weight: lighter;
 }
+.card-text {
+    font-size: 22px;
+}
 .blockquote>p{
-    font-size: larger;
+    font-size: xx-large;
 }
 h1 {
+    margin-bottom: 0;
     font-size: 50px;
     font-weight: bolder;
-    font-family: 'Over the Rainbow', cursive;
+    /*font-family: 'Over the Rainbow', cursive;*/
 }
 .card, #bio {
     background-color: #ffffffc1;
@@ -48,6 +56,9 @@ h1 {
 #author {
     margin-left: 2em;
     font-size: 12px;
+}
+h3 {
+    font-weight: lighter;
 }
 .card-header {
     color: white;
