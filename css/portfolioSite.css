@@ -7,8 +7,8 @@ main {
     background-size: cover;
     color: #545454;
 }
-.jumbotron>img {
-    width: 50%;
+#headshot {
+width: 50%;
 }
 button {
     font-size: 12px;
@@ -33,6 +33,7 @@ i {
 }
 h1 {
     font-size: 50px;
+    font-weight: bolder;
     font-family: 'Over the Rainbow', cursive;
 }
 .card, #bio {
@@ -48,4 +49,10 @@ h1 {
 .card-header {
     color: white;
     background: #474824d1;
+}
+#footer {
+    text-align: center;
+    background: #474824d1;
+    height: 100px;
+    padding: 2em;
 }
