@@ -7,6 +7,9 @@ main {
     background-size: cover;
     color: #545454;
 }
+.jumbotron>img {
+    width: 50%;
+}
 button {
     font-size: 12px;
 }
@@ -39,5 +42,10 @@ h1 {
     background: #474824d1;
 }
 #author {
-    font-family: 'Over the Rainbow', cursive;
+    margin-left: 2em;
+    font-size: 10px;
+}
+.card-header {
+    color: white;
+    background: #474824d1;
 }
