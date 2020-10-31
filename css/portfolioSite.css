@@ -1,11 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Over+the+Rainbow&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
 body {
     font-family: 'Josefin Sans', sans-serif;
 }
 main {
     padding-top: 2em;
-    background-image: url("../assets/armijoSprings.jpg");
+    background-image: url(../assets/clement-m-igX2deuD9lc-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: #545454;
@@ -70,3 +74,5 @@ h3 {
     height: 100px;
     padding: 2em;
 }
+
+/*<span>Photo by <a href="https://unsplash.com/@cmreflections?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Clément M.</a> on <a href="https://unsplash.com/s/photos/pine-forest?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*/
